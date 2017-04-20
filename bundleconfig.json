@@ -1,0 +1,21 @@
+[
+  {
+    "outputFileName": "src/css/normalize.min.css",
+    "inputFiles": [
+      "src/css/normalize.css"
+    ]
+  },
+  {
+    "outputFileName": "src/css/styles.min.css",
+    "inputFiles": [
+      "src/css/styles.css"
+    ]
+  },
+  {
+    "outputFileName": "src/css/bundle.css",
+    "inputFiles": [
+      "src/css/normalize.css",
+      "src/css/styles.css"
+    ]
+  }
+]
